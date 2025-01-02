@@ -1,14 +1,13 @@
 ---
 name: User story
-about: This template is used for creating is used stories
+about: This template is used for creating user stories
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
+**I need** [function]  
  **So that** [benefit]  
    
  ### Details and Assumptions
@@ -21,3 +20,4 @@ assignees: ''
  When [certain action is taken]
  Then [the outcome of action is observed]
  ```
+Copied!
